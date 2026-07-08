@@ -492,7 +492,7 @@
   <h2 class="section-title">My <em>Timeline</em></h2>
   <div class="tl-wrap fade">
     <div class="tl-item">
-      <div class="tl-year">2016 – 2020</div>
+      <div class="tl-year">2020 – 2021</div>
       <div class="tl-head">10th Standard — Leo Matriculation HSS</div>
       <div class="tl-sub">Foundation years. Curiosity about science and technology begins.</div>
     </div>
